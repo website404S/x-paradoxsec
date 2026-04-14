@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#0D0D14"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.xora.xparadoxsec"
@@ -35,6 +37,11 @@
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "4c09aff4-9502-48b4-a71c-81ca3f136f6d"
+      }
+    }
   }
 }
