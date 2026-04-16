@@ -17,7 +17,7 @@
     "@react-navigation/native-stack": "^6.9.26",
     "axios": "^1.7.2",
     "crypto-js": "^4.2.0",
-    "expo": "~50.0.0",
+    "expo": "^55.0.15",
     "expo-device": "~6.0.2",
     "expo-file-system": "~17.0.1",
     "expo-network": "~6.0.1",
